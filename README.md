@@ -29,7 +29,7 @@
 
 ---
 
-## Introduction
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f425/512.gif" alt="🐣" width="35" height="35"> Introduction
 
 A special thanks to **Mino260806** for establishing the original idea and foundation upon which this project was developed. Without their initial work, this repository would not exist today.
 
@@ -41,7 +41,7 @@ A special thanks to **Mino260806** for establishing the original idea and founda
 
 ---
 
-## Screenshots
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f424/512.gif" alt="🐤" width="35" height="35"> Screenshots
 
 <details>
 <summary><b>Amoled Mode</b></summary>
@@ -108,7 +108,7 @@ A special thanks to **Mino260806** for establishing the original idea and founda
 
 ---
 
-## Features
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f423/512.gif" alt="aaa" width="35" height="35"> Features
 
 This rebuild includes a vast array of new capabilities (too many to list everything, but here are the highlights):
 
